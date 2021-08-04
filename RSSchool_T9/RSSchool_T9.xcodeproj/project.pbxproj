@@ -25,6 +25,17 @@
 		2BB9F30E26AF5FA900F43852 /* story-4-path.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BB9F30D26AF5FA900F43852 /* story-4-path.swift */; };
 		2BB9F31026AF5FB300F43852 /* s4-text.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2BB9F30F26AF5FB300F43852 /* s4-text.txt */; };
 		2BB9F31226AF5FBE00F43852 /* s4-title.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2BB9F31126AF5FBE00F43852 /* s4-title.txt */; };
+		D60F3AB626B16FE6004B80AF /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D60F3AB526B16FE6004B80AF /* SecondViewController.m */; };
+		D64E42A126B27903005225D6 /* DrawTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D64E42A026B27902005225D6 /* DrawTableViewCell.m */; };
+		D64E42A526B2842D005225D6 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = D64E42A426B2842D005225D6 /* Test.m */; };
+		D64E42A926B2B494005225D6 /* DrawColor.m in Sources */ = {isa = PBXBuildFile; fileRef = D64E42A826B2B494005225D6 /* DrawColor.m */; };
+		D64E42AF26B2C2D3005225D6 /* UIColor+HexToColor.m in Sources */ = {isa = PBXBuildFile; fileRef = D64E42AE26B2C2D3005225D6 /* UIColor+HexToColor.m */; };
+		D64E42B426B2CC7A005225D6 /* ColorsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D64E42B326B2CC7A005225D6 /* ColorsViewController.m */; };
+		D64FB15026B1462E000901FE /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64FB14F26B1462E000901FE /* TabBarViewController.swift */; };
+		D64FB15B26B15577000901FE /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64FB15A26B15577000901FE /* FirstViewController.swift */; };
+		D64FB15E26B15596000901FE /* SecondViewControllerSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64FB15D26B15596000901FE /* SecondViewControllerSwift.swift */; };
+		D655E7C926B9720D00FE2398 /* RSCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D655E7C826B9720D00FE2398 /* RSCollectionViewCell.swift */; };
+		D672BB7326B518C1003D6DC2 /* StoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D672BB7226B518C1003D6DC2 /* StoryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +59,24 @@
 		2BB9F30D26AF5FA900F43852 /* story-4-path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "story-4-path.swift"; sourceTree = "<group>"; };
 		2BB9F30F26AF5FB300F43852 /* s4-text.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "s4-text.txt"; sourceTree = "<group>"; };
 		2BB9F31126AF5FBE00F43852 /* s4-title.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "s4-title.txt"; sourceTree = "<group>"; };
+		D60F3AB326B16FE5004B80AF /* RSSchool_T9-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RSSchool_T9-Bridging-Header.h"; sourceTree = "<group>"; };
+		D60F3AB426B16FE6004B80AF /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		D60F3AB526B16FE6004B80AF /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		D64E429F26B27902005225D6 /* DrawTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DrawTableViewCell.h; sourceTree = "<group>"; };
+		D64E42A026B27902005225D6 /* DrawTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DrawTableViewCell.m; sourceTree = "<group>"; };
+		D64E42A326B2842D005225D6 /* Test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
+		D64E42A426B2842D005225D6 /* Test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
+		D64E42A726B2B494005225D6 /* DrawColor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DrawColor.h; sourceTree = "<group>"; };
+		D64E42A826B2B494005225D6 /* DrawColor.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DrawColor.m; sourceTree = "<group>"; };
+		D64E42AD26B2C2D3005225D6 /* UIColor+HexToColor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIColor+HexToColor.h"; sourceTree = "<group>"; };
+		D64E42AE26B2C2D3005225D6 /* UIColor+HexToColor.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIColor+HexToColor.m"; sourceTree = "<group>"; };
+		D64E42B226B2CC7A005225D6 /* ColorsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ColorsViewController.h; sourceTree = "<group>"; };
+		D64E42B326B2CC7A005225D6 /* ColorsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ColorsViewController.m; sourceTree = "<group>"; };
+		D64FB14F26B1462E000901FE /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
+		D64FB15A26B15577000901FE /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		D64FB15D26B15596000901FE /* SecondViewControllerSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewControllerSwift.swift; sourceTree = "<group>"; };
+		D655E7C826B9720D00FE2398 /* RSCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSCollectionViewCell.swift; sourceTree = "<group>"; };
+		D672BB7226B518C1003D6DC2 /* StoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,13 +109,12 @@
 		2BB9E75A26AB605700112651 /* RSSchool_T9 */ = {
 			isa = PBXGroup;
 			children = (
+				D64E42AC26B2C29B005225D6 /* extension */,
+				D62514AA26B1F3730009DA26 /* Model */,
+				D64FB15826B146BB000901FE /* CustomElements */,
+				D64FB15626B146A0000901FE /* Supporting files */,
+				D64FB15326B14660000901FE /* ViewControllers */,
 				2BB9F28F26ADFAEB00F43852 /* Data */,
-				2BB9E75B26AB605700112651 /* AppDelegate.swift */,
-				2BB9E75D26AB605700112651 /* SceneDelegate.swift */,
-				2BB9E76126AB605700112651 /* Main.storyboard */,
-				2BB9E76426AB605900112651 /* Assets.xcassets */,
-				2BB9E76626AB605900112651 /* LaunchScreen.storyboard */,
-				2BB9E76926AB605900112651 /* Info.plist */,
 			);
 			path = RSSchool_T9;
 			sourceTree = "<group>";
@@ -151,6 +179,73 @@
 			path = "story-4";
 			sourceTree = "<group>";
 		};
+		D62514AA26B1F3730009DA26 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D64E42A726B2B494005225D6 /* DrawColor.h */,
+				D64E42A826B2B494005225D6 /* DrawColor.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		D64E42AC26B2C29B005225D6 /* extension */ = {
+			isa = PBXGroup;
+			children = (
+				D64E42AD26B2C2D3005225D6 /* UIColor+HexToColor.h */,
+				D64E42AE26B2C2D3005225D6 /* UIColor+HexToColor.m */,
+			);
+			name = extension;
+			sourceTree = "<group>";
+		};
+		D64FB15326B14660000901FE /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				D672BB7126B518A0003D6DC2 /* StoryViewController */,
+				D64FB14F26B1462E000901FE /* TabBarViewController.swift */,
+				D64FB15A26B15577000901FE /* FirstViewController.swift */,
+				D64FB15D26B15596000901FE /* SecondViewControllerSwift.swift */,
+				D60F3AB426B16FE6004B80AF /* SecondViewController.h */,
+				D60F3AB526B16FE6004B80AF /* SecondViewController.m */,
+				D64E42B226B2CC7A005225D6 /* ColorsViewController.h */,
+				D64E42B326B2CC7A005225D6 /* ColorsViewController.m */,
+				D60F3AB326B16FE5004B80AF /* RSSchool_T9-Bridging-Header.h */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		D64FB15626B146A0000901FE /* Supporting files */ = {
+			isa = PBXGroup;
+			children = (
+				2BB9E75B26AB605700112651 /* AppDelegate.swift */,
+				2BB9E75D26AB605700112651 /* SceneDelegate.swift */,
+				2BB9E76126AB605700112651 /* Main.storyboard */,
+				2BB9E76426AB605900112651 /* Assets.xcassets */,
+				2BB9E76626AB605900112651 /* LaunchScreen.storyboard */,
+				2BB9E76926AB605900112651 /* Info.plist */,
+			);
+			name = "Supporting files";
+			sourceTree = "<group>";
+		};
+		D64FB15826B146BB000901FE /* CustomElements */ = {
+			isa = PBXGroup;
+			children = (
+				D64E429F26B27902005225D6 /* DrawTableViewCell.h */,
+				D64E42A026B27902005225D6 /* DrawTableViewCell.m */,
+				D64E42A326B2842D005225D6 /* Test.h */,
+				D64E42A426B2842D005225D6 /* Test.m */,
+				D655E7C826B9720D00FE2398 /* RSCollectionViewCell.swift */,
+			);
+			path = CustomElements;
+			sourceTree = "<group>";
+		};
+		D672BB7126B518A0003D6DC2 /* StoryViewController */ = {
+			isa = PBXGroup;
+			children = (
+				D672BB7226B518C1003D6DC2 /* StoryViewController.swift */,
+			);
+			name = StoryViewController;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -184,7 +279,7 @@
 				TargetAttributes = {
 					2BB9E75726AB605700112651 = {
 						CreatedOnToolsVersion = 12.5.1;
-						LastSwiftMigration = 1250;
+						LastSwiftMigration = 1240;
 					};
 				};
 			};
@@ -232,13 +327,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D64E42A526B2842D005225D6 /* Test.m in Sources */,
+				D64FB15B26B15577000901FE /* FirstViewController.swift in Sources */,
+				D64E42B426B2CC7A005225D6 /* ColorsViewController.m in Sources */,
+				D655E7C926B9720D00FE2398 /* RSCollectionViewCell.swift in Sources */,
+				D64FB15026B1462E000901FE /* TabBarViewController.swift in Sources */,
+				D64E42A926B2B494005225D6 /* DrawColor.m in Sources */,
 				2BB9F30126AF557E00F43852 /* story-2-path.swift in Sources */,
 				2BB9E75C26AB605700112651 /* AppDelegate.swift in Sources */,
 				2BB9F30B26AF5EEC00F43852 /* story-3-path.swift in Sources */,
 				2BB9F29126ADFAF100F43852 /* Data.swift in Sources */,
 				2BB9F2EC26AF1F6200F43852 /* story-1-path.swift in Sources */,
+				D64E42A126B27903005225D6 /* DrawTableViewCell.m in Sources */,
 				2BB9F30E26AF5FA900F43852 /* story-4-path.swift in Sources */,
+				D60F3AB626B16FE6004B80AF /* SecondViewController.m in Sources */,
+				D64FB15E26B15596000901FE /* SecondViewControllerSwift.swift in Sources */,
 				2BB9E75E26AB605700112651 /* SceneDelegate.swift in Sources */,
+				D64E42AF26B2C2D3005225D6 /* UIColor+HexToColor.m in Sources */,
+				D672BB7326B518C1003D6DC2 /* StoryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -321,6 +427,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OBJC_BRIDGING_HEADER = "RSSchool_T9/RSSchool_T9-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -375,6 +482,7 @@
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "RSSchool_T9/RSSchool_T9-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -395,6 +503,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.username.RSSchool-T9";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "RSSchool_T9/RSSchool_T9-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -416,6 +525,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.username.RSSchool-T9";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "RSSchool_T9/RSSchool_T9-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
